@@ -1,0 +1,9 @@
+# 构建产物
+/.tmp-gen/
+*.exe
+*.test
+
+# 编辑器
+.idea/
+.vscode/
+.DS_Store
